@@ -2,16 +2,16 @@ channels:
   - conda-forge
 dependencies:
   - appmode
-  -ipyvuetify
-  -ipywidgets
-  -seaborn
-  -pandas
-  -demjson
-  -numpy
-  -ipywidgets
-  -tensorflow
-  -appmode
-  -scikit-learn
-  -ipympl
-  -ipyvuetify
-  -matplotlib
+  - ipyvuetify
+  - ipywidgets
+  - seaborn
+  - pandas
+  - demjson
+  - numpy
+  - ipywidgets
+  - tensorflow
+  - appmode
+  - scikit-learn
+  - ipympl
+  - ipyvuetify
+  - matplotlib
